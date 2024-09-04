@@ -1,4 +1,4 @@
-# InternP_Task
+# InternPe_Task
 # 🐍 Internship Weekly Tasks - Python Projects
 
 Welcome to my internship repository! 🌟 Here, I share the weekly tasks I've completed during my internship, showcasing my journey and growth in Python programming. 🧑‍💻
